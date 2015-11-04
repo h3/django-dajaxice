@@ -1,5 +1,6 @@
 *.pyc
 *.egg-info
+*.un~
 dist
 build
 .DS_Store
